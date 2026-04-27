@@ -10,9 +10,10 @@ format: html
 
 <Owner adds their tips here!>
 
-### Tips: <collaborator's name here>
+### Tips: <Kim>
 
-<Collaborator adds their tips here!>
+<Annotate your code! so you know why you did what you did
+ Always pull before you start working>
 
 ## How to Create a Merge Conflict 
 

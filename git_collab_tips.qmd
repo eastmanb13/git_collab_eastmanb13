@@ -24,6 +24,7 @@ Commit changes in bite size pieces with clear messages to track changes.
 ### Merge Conflict: Owner Resolves
 
 meow meow meowwww meow meow I <3 meow mix
+I'm in my own world, and nothing else matters.
 
 ### Merge Conflict: Collaborator Resolves
 

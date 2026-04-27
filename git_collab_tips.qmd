@@ -6,9 +6,13 @@ format: html
 
 ## Git Collaboration Tips
 
-### Tips: <owner's name here>
+### Tips: Brooke
 
-<Owner adds their tips here!>
+Communicate frequently about what you are working on.
+Always pull before starting.
+Pull/push and commit with comments frequently to stay up to date.
+Commit changes in bite size pieces with clear messages to track changes.
+
 
 ### Tips: <Kim>
 

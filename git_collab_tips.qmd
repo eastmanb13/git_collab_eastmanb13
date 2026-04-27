@@ -28,7 +28,8 @@ I'm in my own world, and nothing else matters.
 
 ### Merge Conflict: Collaborator Resolves
 
-This time I'm going to push first!
+This time Kim is going to push first!
+Idk what's going on!
 
 ## Summary: How to Avoid Merge Conflicts
 

@@ -23,7 +23,7 @@ Commit changes in bite size pieces with clear messages to track changes.
 
 ### Merge Conflict: Owner Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+I'm in my own world, and nothing else matters.
 
 ### Merge Conflict: Collaborator Resolves
 

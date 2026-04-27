@@ -23,7 +23,7 @@ Commit changes in bite size pieces with clear messages to track changes.
 
 ### Merge Conflict: Owner Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+meow meow meowwww meow meow I <3 meow mix
 
 ### Merge Conflict: Collaborator Resolves
 

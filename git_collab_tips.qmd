@@ -28,7 +28,7 @@ I'm in my own world, and nothing else matters.
 
 ### Merge Conflict: Collaborator Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - OWNER commits-pulls-pushes first>
+This time I'm going to push first!
 
 ## Summary: How to Avoid Merge Conflicts
 
